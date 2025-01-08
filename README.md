@@ -1,4 +1,4 @@
-[![MasterHead](https://gist.githubusercontent.com/vibern0/f4ec9b75736a98be5f6198f5ae40b897/raw/2546374e14122f5c0a8c7cc0c49edd07bf5d14cd/dev.gif)]([https://rishavchanda.io](https://weroshportfolio.netlify.app/))
+[![MasterHead](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)]([https://weroshportfolio.netlify.app/])
 
 <h1>Hi there! I'm Werosh Kriyanjala ✨</h1>
 

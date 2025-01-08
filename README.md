@@ -78,8 +78,7 @@
 <hr>
 
 <h2>📊 GitHub Stats & Top Skills</h2>
-<p><img src="https://github-readme-stats.vercel.app/api?username=Werosh&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical" alt="GitHub Stats"></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Werosh&layout=compact&theme=radical" alt="Top Languages"></p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=Werosh&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical" alt="GitHub Stats"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Werosh&layout=compact&theme=radical" alt="Top Languages"></p>
 
 <hr>
 

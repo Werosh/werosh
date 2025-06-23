@@ -111,10 +111,15 @@ I'm **Werosh Kriyanjala**, a software engineering student at the **University of
 ### 🌍 Visitor Map
 
 <p align="center">
+  <!-- Static badge to show starting point -->
+  <img src="https://img.shields.io/badge/Visitors-547%2B-blueviolet?style=flat-square" alt="Starting at 547+" />
+  <br />
+  <!-- Dynamic live counter -->
   <img src="https://profile-counter.glitch.me/Werosh/count.svg" />
   <br />
-  <img src="https://api.visitorbadge.io/api/visitors?path=Werosh&label=Visitors&countColor=%23263759&style=flat-square" />
+  <img src="https://api.visitorbadge.io/api/visitors?path=Werosh&label=Live Visitors&countColor=%23263759&style=flat-square" />
 </p>
+
 
 ---
 

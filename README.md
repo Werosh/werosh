@@ -106,11 +106,14 @@ const werosh = {
 ## 📊 **Performance Analytics**
 
 <div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Werosh&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=6C63FF&text_color=c9d1d9&icon_color=6C63FF&border_color=30363d"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Werosh&layout=compact&langs_count=8&theme=github_dark&bg_color=0d1117&title_color=6C63FF&text_color=c9d1d9&border_color=30363d"/>
-
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Werosh&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=6C63FF&text_color=c9d1d9&icon_color=6C63FF&border_color=30363d&cache_seconds=1800"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Werosh&layout=compact&langs_count=8&theme=github_dark&bg_color=0d1117&title_color=6C63FF&text_color=c9d1d9&border_color=30363d&cache_seconds=1800"/>
 </div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Werosh&theme=radical&hide_border=false" />
+  <br />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Werosh&theme=radical" />
+</p>
 
 ---
 
@@ -118,7 +121,7 @@ const werosh = {
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Werosh&theme=github-dark-blue&background=0d1117&border=30363d&stroke=6C63FF&ring=6C63FF&fire=FF6B6B&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=6C63FF&sideLabels=c9d1d9&dates=c9d1d9)
+
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Werosh&bg_color=0d1117&color=6C63FF&line=6C63FF&point=FF6B6B&area=true&hide_border=true)
 
@@ -134,10 +137,12 @@ const werosh = {
 🎯 Visitors from around the world
 ```
 
-![Visitor Count](https://profile-counter.glitch.me/Werosh/count.svg)
 
-![Visitor Badge](https://api.visitorbadge.io/api/visitors?path=Werosh&label=Digital%20Explorers&countColor=%236C63FF&style=for-the-badge&labelColor=000000)
 
+
+<div align="center">
+  <img src="https://api.visitorbadge.io/api/visitors?path=github.com/Werosh&label=Digital%20Explorers&countColor=%236C63FF&style=flat-square&labelColor=000000" />
+</div>
 </div>
 
 ---

@@ -1,146 +1,203 @@
-[![Header](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)](https://weroshportfolio.netlify.app)
+# ✨ Hey Universe, I'm **Werosh Kriyanjala** ✨
 
-<h1 align="center">Hey there 👋 I'm <span style="color:#8e44ad;">W3r05h Kr!y4nj414</span> — Future-Proof Engineer 💻</h1>
+<div align="center">
+  
+```ascii
+╔══════════════════════════════════════════════════════════════╗
+║  🌟 Crafting Digital Dreams • Building Tomorrow's Tech 🌟   ║
+╚══════════════════════════════════════════════════════════════╝
+```
 
-<p align="center">
-  🚀 Passionate Developer | 🎨 UI Perfectionist | 📊 Data Enthusiast | 🧠 AI/ML Learner  
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Future-Proof+Engineer+%F0%9F%92%BB;UI+Perfectionist+%F0%9F%8E%A8;Data+Enthusiast+%F0%9F%93%8A;AI%2FML+Explorer+%F0%9F%A7%A0" alt="Typing SVG" />
 
----
-
-### 🎯 Summary for Recruiters
-
-As an aspiring **full-stack software engineer** with a sharp eye for detail and a love for design and innovation, I bring a unique mix of **technical proficiency**, **project leadership**, and **creative thinking**. Currently studying at the **University of Moratuwa**, I already lead real-world projects as the **Head Web Developer at NextGen Websites (Australia)**.
-
-✅ Hands-on experience building production-level applications  
-✅ Strong foundation in Java, React, C#, and MySQL  
-✅ Leading teams, crafting elegant UIs, integrating APIs, and optimizing performance  
-✅ Deep interest in **AI, system architecture, and scalable backend logic**  
-✅ Committed, creative, and always learning — I turn problems into polished products
-
-📩 Let's connect if you're looking for someone who codes with passion, thinks with purpose, and leads with intention.
+</div>
 
 ---
 
-### 🧭 Who Am I?
+## 🎭 **The Story Behind The Code**
 
-I'm **Werosh Kriyanjala**, a software engineering student at the **University of Moratuwa**, aiming to become the **best software engineer** on the planet. My journey began in **Nelliya, Kurunegala**, and now I'm on a mission to build scalable, user-focused digital solutions. 
+> *From the hills of **Nelliya, Kurunegala** to the digital frontlines of innovation*
 
-- 🧠 Currently mastering **React**, **Firebase**, **Java**, and **Machine Learning**
-- 🔥 Developer at **NextGen Websites (AU)** — leading projects with precision and flair
-- 🌐 Founder of **BusMate LK**, solving real-world transport problems with code
-
----
-
-### 💼 Current Roles
-
-- 🧑‍💻 **Head Web Developer** – NextGen Websites (Australia)
-- 📘 **Student** – BSc (Hons) in Software Engineering, University of Moratuwa
-- 🧪 **Research & Innovation** – AI + UX intersection
-- 🚀 **Lead Developer** – Boarding Finder | Salon Inventory System | LassanaMoments
+```javascript
+const werosh = {
+  identity: "Full-Stack Visionary",
+  location: "University of Moratuwa 🇱🇰",
+  mission: "Building scalable solutions that matter",
+  currentRole: "Head Web Developer @ NextGen Websites (AU)",
+  passion: ["Clean Code", "Elegant UIs", "System Architecture"],
+  philosophy: "Code like a poet, debug like a detective 🕵️‍♂️"
+};
+```
 
 ---
 
-### 🔧 Tech Toolbox
+## 🚀 **Current Orbit**
 
-#### 🚀 Languages & Frameworks:
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-000000?style=flat-square&logo=framer&logoColor=white)
+<table>
+<tr>
+<td width="50%">
 
-#### 🧠 AI / Data Tools:
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+### 🎯 **Active Missions**
+- 🧑‍💻 **Leading** NextGen Websites (Australia)
+- 📚 **Mastering** BSc Software Engineering 
+- 🔬 **Researching** AI + UX convergence
+- 🚌 **Founding** BusMate LK transport solutions
 
-#### 🛢️ Databases:
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+</td>
+<td width="50%">
 
-#### ⚙️ Dev Tools:
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+### ⚡ **Power-Up Zone**
+- 🧠 **Deep-diving** into React & Firebase
+- 🤖 **Exploring** Machine Learning algorithms  
+- 🎨 **Perfecting** Tailwind CSS mastery
+- 🔐 **Building** Custom CRM with AI
 
----
-
-### 🚀 What I'm Up To Now
-
-- 🧑‍🎓 Level 2, Semester 1 — Grinding through **AI & ML modules**
-- 🔍 Building an AI-enhanced **Custom CRM** for an insurance client
-- 🎯 Perfecting UI/UX in **React + Tailwind** for production-grade web apps
-- 🔐 Exploring **Firebase Authentication**, **KPI Dashboards**, and **System Integrations**
+</td>
+</tr>
+</table>
 
 ---
 
-### 🔥 Featured Projects
+## 🛠️ **Arsenal of Creation**
 
-- 🚌 **BusMate LK** – Real-time bus tracking & smart route planning  
-- 🧴 **Salon Inventory System** – Staff-focused tool to manage salon products  
-- 🏡 **Boarding Finder** – Web app for finding accommodations around universities  
-- 💐 **LassanaMoments** – Beautifully crafted website for a local gift shop
+<div align="center">
 
-👉 Check them out at: [github.com/Werosh](https://github.com/Werosh)
+### **🚀 Core Technologies**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=000000)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=000000)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=000000)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white&labelColor=000000)
 
----
+### **🎨 Design & Animation**
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=000000)
+![Framer Motion](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue&labelColor=000000)
 
-### 📈 GitHub Stats
+### **🧠 AI & Data Science**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=000000)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white&labelColor=000000)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white&labelColor=000000)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Werosh&show_icons=true&theme=tokyonight" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Werosh&layout=compact&theme=tokyonight" width="48%">
-</p>
+### **🛢️ Data Powerhouses**
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white&labelColor=000000)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=000000)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white&labelColor=000000)
 
----
-
-### ⚡ GitHub Streak & Contributions
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Werosh&theme=radical&hide_border=false" />
-  <br />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Werosh&theme=radical" />
-</p>
+</div>
 
 ---
 
-### 🌍 Visitor Map
+## 🏆 **Digital Masterpieces**
 
-<p align="center">
-  <!-- Static badge to show starting point -->
-  <img src="https://img.shields.io/badge/Visitors-547%2B-blueviolet?style=flat-square" alt="Starting at 547+" />
-  <br />
-  <!-- Dynamic live counter -->
-  <img src="https://profile-counter.glitch.me/Werosh/count.svg" />
-  <br />
-  <img src="https://api.visitorbadge.io/api/visitors?path=Werosh&label=Live Visitors&countColor=%23263759&style=flat-square" />
-</p>
+<div align="center">
 
+| 🚌 **BusMate LK** | 🧴 **Salon Inventory** | 🏡 **Boarding Finder** | 💐 **LassanaMoments** |
+|:---:|:---:|:---:|:---:|
+| Real-time tracking | Staff management | University housing | Gift shop elegance |
+| Smart routing | Product control | Location finder | Beautiful UI |
 
----
+</div>
 
-### 📫 Let’s Connect & Collaborate
-
-- 🔗 **Portfolio**: [weroshportfolio.netlify.app](https://weroshportfolio.netlify.app)
-- 📧 **Email**: [weroshprofy@gmail.com](mailto:weroshprofy@gmail.com)
-- 👔 **LinkedIn**: [Werosh Kriyanjala](https://www.linkedin.com/in/weroshk)
-- 📷 **Instagram**: [@werosh_k](https://www.instagram.com/werosh_k/)
+```
+🎯 Explore the complete collection: github.com/Werosh
+```
 
 ---
 
-### 🎯 Fun Facts
+## 📊 **Performance Analytics**
 
-- 🎶 I code better with lo-fi or instrumental techno in the background.
-- 📚 I learn new frameworks just for fun.
-- 💑 In a 5+ year relationship with "විහාරා" — still my biggest inspiration ❤️
-- ⚡ Favorite quote: *"Code like a poet, debug like a detective."*
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Werosh&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=6C63FF&text_color=c9d1d9&icon_color=6C63FF&border_color=30363d"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Werosh&layout=compact&langs_count=8&theme=github_dark&bg_color=0d1117&title_color=6C63FF&text_color=c9d1d9&border_color=30363d"/>
+
+</div>
 
 ---
 
-> 🧩 _“The best way to predict the future is to invent it.” – Alan Kay_
+## 🔥 **Streak Visualization**
 
-<p align="center">Thanks for visiting — now let’s build something amazing together! 🚀</p>
+<div align="center">
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Werosh&theme=github-dark-blue&background=0d1117&border=30363d&stroke=6C63FF&ring=6C63FF&fire=FF6B6B&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=6C63FF&sideLabels=c9d1d9&dates=c9d1d9)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Werosh&bg_color=0d1117&color=6C63FF&line=6C63FF&point=FF6B6B&area=true&hide_border=true)
+
+</div>
+
+---
+
+## 🌍 **Global Impact**
+
+<div align="center">
+
+```
+🎯 Visitors from around the world
+```
+
+![Visitor Count](https://profile-counter.glitch.me/Werosh/count.svg)
+
+![Visitor Badge](https://api.visitorbadge.io/api/visitors?path=Werosh&label=Digital%20Explorers&countColor=%236C63FF&style=for-the-badge&labelColor=000000)
+
+</div>
+
+---
+
+## 🤝 **Connect & Collaborate**
+
+<div align="center">
+
+```
+🌐 Let's build the future together
+```
+
+<table>
+<tr>
+<td align="center">
+  <a href="https://weroshportfolio.netlify.app">
+    <img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white&labelColor=000000"/>
+  </a>
+</td>
+<td align="center">
+  <a href="mailto:weroshprofy@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000"/>
+  </a>
+</td>
+<td align="center">
+  <a href="https://www.linkedin.com/in/weroshk">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000"/>
+  </a>
+</td>
+<td align="center">
+  <a href="https://www.instagram.com/werosh_k">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=000000"/>
+  </a>
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 💫 **The Human Behind The Code**
+
+<div align="center">
+
+```
+🎵 Coding soundtrack: Lo-fi beats & instrumental techno
+📚 Weekend hobby: Learning frameworks for fun
+💑 Inspired by: "විහාරා" for 5+ years ❤️
+⚡ Life motto: "The best way to predict the future is to invent it"
+```
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=16&fontColor=ffffff&animation=twinkling"/>
+
+</div>
+
+---
+
+<div align="center">
+
+**🚀 Ready to build something extraordinary? Let's connect! 🚀**
+
+</div>

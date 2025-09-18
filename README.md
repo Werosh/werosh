@@ -16,7 +16,7 @@
 
 ## 🎭 **The Story Behind The Code**
 
-> *From the hills of **Nelliya, Kurunegala** to the digital frontlines of innovation*
+> *From the hills of **Malabe,Sri Lanka** to the digital frontlines of innovation*
 
 ```javascript
 const werosh = {

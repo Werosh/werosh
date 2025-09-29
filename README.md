@@ -102,6 +102,15 @@ const werosh = {
 ```
 
 ---
+---
+
+## 📊 GitHub Achievements  
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Werosh&theme=matrix&no-frame=true&margin-w=15&row=1&column=6" alt="GitHub Trophies"/>
+</p>  
+
+---
 
 ## 📊 **Performance Analytics**
 

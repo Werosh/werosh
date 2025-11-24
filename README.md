@@ -82,8 +82,7 @@ I blend **system thinking, elegant design, and AI innovation** to craft experien
 
 ```
 🎵 Playlist: Lo-fi, Synthwave, Ambient focus tracks  
-📚 Hobby: Learning frameworks & reading system design  
-💑 Inspired by: "විහාරා" ❤️  
+📚 Hobby: Learning frameworks & reading system design   
 ⚡ Motto: "Invent the future, don’t wait for it."  
 ```
 

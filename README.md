@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hey there, I'm <span style="color:#6C63FF;">Werosh Kriyanjala</span></h1>
-<h3 align="center">🚀 Full-Stack Engineer | UI Perfectionist | AI/ML Explorer</h3>
+<h3 align="center">Full-Stack Engineer | UI Perfectionist | AI/ML Explorer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Carafting+Digital+Experiences;Engineering+Scalable+Systems;Designing+with+Purpose;Building+Tomorrow's+Tech" alt="Typing Animation"/>
@@ -7,29 +7,29 @@
 
 ---
 
-## 💫 About Me
+## About Me
 
 > *From the creative lanes of **Malabe, Sri Lanka 🇱🇰** to leading projects that bridge art and engineering.*
 
 I’m **Werosh Kriyanjala**, a results-driven Software Engineer passionate about transforming concepts into beautiful, functional digital products.  
 I blend **system thinking, elegant design, and AI innovation** to craft experiences that truly stand out.
 
-💡 *“Technology becomes magic when design and logic align.”*
+*“Technology becomes magic when design and logic align.”*
 
 ---
 
 ## 🧭 My Current Orbit
 
-| 🚀 Focus | 💼 Projects |
+| Focus | Projects |
 |:--|:--|
-| 🎨 Perfecting UI craftsmanship with React + Tailwind | 🚌 **BusMate LK** – Smart transport tracking for Sri Lanka |
-| 🧠 Experimenting with applied AI in UX workflows | 💐 **LassanaMoments** – Modern e-commerce platform |
-| 🔐 Building modular CRM systems with Firebase | 🏡 **Boarding Finder** – Smart student housing system |
-| 💬 Leading NextGen Websites (AU) as Head Developer | 💈 **Salon Inventory** – Automated staff & stock management |
+| Perfecting UI craftsmanship with React + Tailwind | **BusMate LK** – Smart transport tracking for Sri Lanka |
+| Experimenting with applied AI in UX workflows | **LassanaMoments** – Modern e-commerce platform |
+| Building modular CRM systems with Firebase | **Boarding Finder** – Smart student housing system |
+| Leading NextGen Websites (AU) as Head Developer | **Salon Inventory** – Automated staff & stock management |
 
 ---
 
-## 🛠️ Tech Stack Snapshot
+## Tech Stack Snapshot
 
 <div align="center">
 
@@ -56,12 +56,12 @@ I blend **system thinking, elegant design, and AI innovation** to craft experien
 
 ## 🧩 Selected Work
 
-| 🧠 Project | 💬 Description |
+|  Project | Description |
 |:--|:--|
-| 🚌 **BusMate LK** | Real-time bus tracking platform for local transport systems |
-| 💐 **LassanaMoments** | Modern e-commerce and delivery solution with responsive UI |
-| 🏡 **Boarding Finder** | University accommodation locator with geo-search |
-| 💈 **Salon Inventory** | Lightweight business management dashboard for salons |
+| **BusMate LK** | Real-time bus tracking platform for local transport systems |
+| **LassanaMoments** | Modern e-commerce and delivery solution with responsive UI |
+| **Boarding Finder** | University accommodation locator with geo-search |
+| **Salon Inventory** | Lightweight business management dashboard for salons |
 
 ---
 
@@ -78,7 +78,7 @@ I blend **system thinking, elegant design, and AI innovation** to craft experien
 
 ---
 
-## 💫 Beyond Code
+## Beyond Code
 
 ```
 🎵 Playlist: Lo-fi, Synthwave, Ambient focus tracks  

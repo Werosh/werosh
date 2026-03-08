@@ -145,17 +145,12 @@ React, Tailwind CSS, Firebase
 
 # GitHub Statistics
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Werosh&show_icons=true&theme=tokyonight&hide_border=true"/>
-</p>
+
 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=Werosh&theme=tokyonight&hide_border=true"/>
 </p>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Werosh&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
 
 ---
 

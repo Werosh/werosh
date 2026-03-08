@@ -1,93 +1,205 @@
-<h1 align="center">👋 Hey there, I'm <span style="color:#6C63FF;">Werosh Kriyanjala</span></h1>
-<h3 align="center">Full-Stack Engineer | UI Perfectionist | AI/ML Explorer</h3>
+<h1 align="center">Werosh Kriyanjala</h1>
+<h3 align="center">Associate Software Engineer | Front-End Engineer | AI Explorer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Carafting+Digital+Experiences;Engineering+Scalable+Systems;Designing+with+Purpose;Building+Tomorrow's+Tech" alt="Typing Animation"/>
+Designing clean interfaces, scalable systems, and intelligent digital products.
+</p>
+
+<p align="center">
+<a href="https://weroshportfolio.netlify.app">Portfolio</a> |
+<a href="https://github.com/Werosh">GitHub</a> |
+<a href="https://www.linkedin.com/in/weroshk">LinkedIn</a>
 </p>
 
 ---
 
-## About Me
+# Werosh Kriyanjala
 
-> *From the creative lanes of **Malabe, Sri Lanka 🇱🇰** to leading projects that bridge art and engineering.*
+Final Year Software Engineering Undergraduate focused on building modern web systems and exploring AI driven applications.
 
-I’m **Werosh Kriyanjala**, a results-driven Software Engineer passionate about transforming concepts into beautiful, functional digital products.  
-I blend **system thinking, elegant design, and AI innovation** to craft experiences that truly stand out.
+I specialize in front-end engineering and system design. My goal is to build products that are fast, intuitive, and scalable.
 
-*“Technology becomes magic when design and logic align.”*
+Philosophy
 
----
-
-## 🧭 My Current Orbit
-
-| Focus | Projects |
-|:--|:--|
-| Perfecting UI craftsmanship with React + Tailwind | **BusMate LK** – Smart transport tracking for Sri Lanka |
-| Experimenting with applied AI in UX workflows | **LassanaMoments** – Modern e-commerce platform |
-| Building modular CRM systems with Firebase | **Boarding Finder** – Smart student housing system |
-| Leading NextGen Websites (AU) as Head Developer | **Salon Inventory** – Automated staff & stock management |
+Simple for users. Powerful under the hood.
 
 ---
 
-## Tech Stack Snapshot
+# Current Focus
 
-<div align="center">
+Associate Software Engineer  
+Final Year Undergraduate - Software Engineering
 
-**Frontend**  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)
-![Figma](https://img.shields.io/badge/Figma-0ACF83?style=for-the-badge&logo=figma&logoColor=white)
+Main Interests
 
-**Backend & Database**  
-![NodeJS](https://img.shields.io/badge/NodeJS-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
-**AI & Data Science**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-
-</div>
+- Front-End Engineering
+- System Design
+- AI and Machine Learning
+- Product Development
+- Performance Optimization
 
 ---
 
-## 🧩 Selected Work
+# Selected Projects
 
-|  Project | Description |
-|:--|:--|
-| **BusMate LK** | Real-time bus tracking platform for local transport systems |
-| **LassanaMoments** | Modern e-commerce and delivery solution with responsive UI |
-| **Boarding Finder** | University accommodation locator with geo-search |
-| **Salon Inventory** | Lightweight business management dashboard for salons |
+## BusMate LK
 
----
+Smart transport tracking platform designed for Sri Lankan public transport.
 
-## 🤝 Let’s Connect
+Features
 
-<div align="center">
+- Real time bus route visibility
+- Passenger friendly interface
+- Route tracking
+- Optimized React architecture
 
-<a href="https://weroshportfolio.netlify.app"><img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white" /></a>
-<a href="mailto:weroshprofy@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://linkedin.com/in/weroshk"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://www.instagram.com/werosh_k"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-
-</div>
+Stack  
+React, Tailwind CSS, Firebase, Framer Motion
 
 ---
 
-## Beyond Code
+## LassanaMoments
 
-```
-🎵 Playlist: Lo-fi, Synthwave, Ambient focus tracks  
-📚 Hobby: Learning frameworks & reading system design   
-⚡ Motto: "Invent the future, don’t wait for it."  
-```
+Modern ecommerce platform with a strong focus on clean UI and smooth user experience.
+
+Features
+
+- Mobile optimized design
+- Clean shopping flow
+- Modular UI components
+
+---
+
+## Boarding Finder
+
+Student accommodation discovery platform built to help university students quickly locate boarding places.
+
+Features
+
+- Location based search
+- Simple listing management
+- Clean minimal UI
+
+---
+
+## Salon Inventory Management System
+
+Inventory management dashboard designed for salon staff operations.
+
+Features
+
+- Inventory tracking
+- Staff friendly workflows
+- Simple operational UI
+
+---
+
+## Blue Heaven Rentals
+
+University group project solving rental management challenges.
+
+Stack  
+React, Tailwind CSS, Firebase
+
+---
+
+# Tech Stack
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react" height="50"/>
+<img src="https://skillicons.dev/icons?i=tailwind" height="50"/>
+<img src="https://skillicons.dev/icons?i=js" height="50"/>
+<img src="https://skillicons.dev/icons?i=html" height="50"/>
+<img src="https://skillicons.dev/icons?i=css" height="50"/>
+<img src="https://skillicons.dev/icons?i=figma" height="50"/>
+</p>
+
+### Backend and Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs" height="50"/>
+<img src="https://skillicons.dev/icons?i=firebase" height="50"/>
+<img src="https://skillicons.dev/icons?i=mysql" height="50"/>
+<img src="https://skillicons.dev/icons?i=mongodb" height="50"/>
+</p>
+
+### AI and Data
+
+<p>
+<img src="https://skillicons.dev/icons?i=python" height="50"/>
+<img src="https://skillicons.dev/icons?i=numpy" height="50"/>
+<img src="https://skillicons.dev/icons?i=pandas" height="50"/>
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git" height="50"/>
+<img src="https://skillicons.dev/icons?i=github" height="50"/>
+<img src="https://skillicons.dev/icons?i=vscode" height="50"/>
+</p>
+
+---
+
+# GitHub Statistics
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Werosh&show_icons=true&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=Werosh&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Werosh&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# Currently Learning
+
+- Machine Learning
+- Artificial Neural Networks
+- Big Data Analytics
+- Natural Language Processing
+- Scalable System Architecture
+
+---
+
+# Portfolio
+
+https://weroshportfolio.netlify.app
+
+---
+
+# Connect
+
+LinkedIn  
+https://www.linkedin.com/in/weroshk
+
+GitHub  
+https://github.com/Werosh
+
+Instagram  
+https://www.instagram.com/werosh_k
+
+Contact  
+weroshprofy@gmail.com
+
+Phone  
++94 76 949 6250
+
+---
+
+# Personal Motto
+
+Invent the future. Do not wait for it.
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=18&fontColor=ffffff&animation=twinkling" alt="Footer Wave"/>
+Thanks for visiting my profile.
 </p>

@@ -108,9 +108,10 @@ React, Tailwind CSS, Firebase
 ### Frontend
 
 <p>
+<img src="https://skillicons.dev/icons?i=nextjs" height="50"/>
+<img src="https://skillicons.dev/icons?i=js" height="50"/>
 <img src="https://skillicons.dev/icons?i=react" height="50"/>
 <img src="https://skillicons.dev/icons?i=tailwind" height="50"/>
-<img src="https://skillicons.dev/icons?i=js" height="50"/>
 <img src="https://skillicons.dev/icons?i=html" height="50"/>
 <img src="https://skillicons.dev/icons?i=css" height="50"/>
 <img src="https://skillicons.dev/icons?i=figma" height="50"/>
@@ -119,10 +120,10 @@ React, Tailwind CSS, Firebase
 ### Backend and Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs" height="50"/>
 <img src="https://skillicons.dev/icons?i=firebase" height="50"/>
-<img src="https://skillicons.dev/icons?i=mysql" height="50"/>
+<img src="https://skillicons.dev/icons?i=nodejs" height="50"/>
 <img src="https://skillicons.dev/icons?i=mongodb" height="50"/>
+<img src="https://skillicons.dev/icons?i=mysql" height="50"/>
 </p>
 
 ### AI and Data

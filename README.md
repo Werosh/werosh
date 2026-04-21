@@ -40,68 +40,7 @@ Main Interests
 
 ---
 
-# Selected Projects
 
-## BusMate LK
-
-Smart transport tracking platform designed for Sri Lankan public transport.
-
-Features
-
-- Real time bus route visibility
-- Passenger friendly interface
-- Route tracking
-- Optimized React architecture
-
-Stack  
-React, Tailwind CSS, Firebase, Framer Motion
-
----
-
-## LassanaMoments
-
-Modern ecommerce platform with a strong focus on clean UI and smooth user experience.
-
-Features
-
-- Mobile optimized design
-- Clean shopping flow
-- Modular UI components
-
----
-
-## Boarding Finder
-
-Student accommodation discovery platform built to help university students quickly locate boarding places.
-
-Features
-
-- Location based search
-- Simple listing management
-- Clean minimal UI
-
----
-
-## Salon Inventory Management System
-
-Inventory management dashboard designed for salon staff operations.
-
-Features
-
-- Inventory tracking
-- Staff friendly workflows
-- Simple operational UI
-
----
-
-## Blue Heaven Rentals
-
-University group project solving rental management challenges.
-
-Stack  
-React, Tailwind CSS, Firebase
-
----
 
 # Tech Stack
 

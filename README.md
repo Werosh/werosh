@@ -52,7 +52,7 @@ $ ls -la /repos --include=private
 
 ```
 drwxr-xr-x  PUBLIC/          (visible in this profile)
-drwx------  PRIVATE/         (12+ repos · NDA-protected · client systems · org privileges)
+drwx------  PRIVATE/         (30+ repos · NDA-protected · client systems · org privileges)
 drwx------  INTERNAL/        (production tooling · team infrastructure · confidential)
 
 ⚠  What you see here is a curated public snapshot - not the full system.

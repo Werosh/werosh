@@ -1,12 +1,19 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:050a18,30:0a1628,60:0d1f3c,100:112244&height=280&section=header&text=WEROSH%20KRIYANJALA&fontSize=52&fontColor=e2f0ff&fontAlignY=42&desc=Software%20Engineer%20.%20Front-End%20.%20AI%20Explorer&descSize=17&descColor=7bafd4&descAlignY=62&stroke=1a3a6b&strokeWidth=2&animation=twinkling" width="100%"/>
+```
+██╗    ██╗███████╗██████╗  ██████╗ ███████╗██╗  ██╗
+██║    ██║██╔════╝██╔══██╗██╔═══██╗██╔════╝██║  ██║
+██║ █╗ ██║█████╗  ██████╔╝██║   ██║███████╗███████║
+██║███╗██║██╔══╝  ██╔══██╗██║   ██║╚════██║██╔══██║
+╚███╔███╔╝███████╗██║  ██║╚██████╔╝███████║██║  ██║
+ ╚══╝╚══╝ ╚══════╝╚═╝  ╚═╝ ╚═════╝ ╚══════╝╚═╝  ╚═╝
+```
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2800&pause=1200&color=4A9EDB&center=true&vCenter=true&width=580&lines=const+philosophy+%3D+%22Simple+for+users.+Powerful+under+the+hood.%22;Building+scalable+systems+%2B+clean+interfaces;Final+Year+%7C+Software+Engineering+Undergraduate;Exploring+AI+%7C+ML+%7C+Neural+Networks)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=2400&pause=1000&color=00D4AA&center=true&vCenter=true&width=680&lines=%24+whoami+--verbose;%3E+Software+Engineer+%E2%80%94+Product+Engineering+%26+Frontend+Architecture;%24+uptime+--since+%22Final+Year+Undergraduate%2C+Sri+Lanka%22;%3E+System+online.+Building+things+that+matter.;%24+cat+%2Fetc%2Fphilosophy;%3E+%22Simple+for+users.+Powerful+under+the+hood.%22)](https://git.io/typing-svg)
 
 </div>
 
@@ -14,192 +21,168 @@
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/%F0%9F%8C%90%20Portfolio-0d1f3c?style=for-the-badge&logoColor=white)](https://weroshportfolio.netlify.app)&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/weroshk)&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Werosh)&nbsp;
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:weroshprofy@gmail.com)
+[![Portfolio](https://img.shields.io/badge/◈_PORTFOLIO-00d4aa?style=flat-square&logoColor=0d1117&labelColor=0d1117)](https://weroshportfolio.netlify.app)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/◈_LINKEDIN-0A66C2?style=flat-square&logoColor=white&labelColor=0d1117)](https://www.linkedin.com/in/weroshk)&nbsp;
+[![GitHub](https://img.shields.io/badge/◈_GITHUB-ffffff?style=flat-square&logoColor=0d1117&labelColor=0d1117)](https://github.com/Werosh)&nbsp;
+[![Email](https://img.shields.io/badge/◈_EMAIL-EA4335?style=flat-square&logoColor=white&labelColor=0d1117)](mailto:weroshprofy@gmail.com)
 
-![Profile Views](https://komarev.com/ghpvc/?username=Werosh&color=4a9edb&style=flat-square&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=Werosh&color=00d4aa&style=flat-square&label=SESSIONS)
 
 </div>
 
----
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="24"> &nbsp; About
-
-```yaml
-# werosh.config.yaml
-
-identity:
-  name         : Werosh Kriyanjala
-  role         : Associate Software Engineer
-  status       : Final Year Undergraduate . Software Engineering
-  location     : Sri Lanka 🇱🇰
-
-focus:
-  primary      : [ Front-End Engineering, System Design ]
-  expanding    : [ Artificial Intelligence, Machine Learning, Big Data ]
-
-principles:
-  - "Architect for scale from day one"
-  - "Pixel-perfect UIs, clean performant code"
-  - "Invent the future. Do not wait for it."
-
-availability: open to opportunities
+```bash
+$ boot --user werosh.kriyanjala --mode verbose
 ```
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="24"> &nbsp; Tech Stack
-
-### ◈ Core Frontend
-
-<p align="left">
-<a href="#"><img src="https://skillicons.dev/icons?i=react" height="48" title="React"/></a>&nbsp;
-<a href="#"><img src="https://skillicons.dev/icons?i=nextjs" height="48" title="Next.js"/></a>&nbsp;
-<a href="#"><img src="https://skillicons.dev/icons?i=tailwind" height="48" title="Tailwind CSS"/></a>&nbsp;
-<a href="#"><img src="https://skillicons.dev/icons?i=js" height="48" title="JavaScript"/></a>&nbsp;
-<a href="#"><img src="https://skillicons.dev/icons?i=html" height="48" title="HTML5"/></a>&nbsp;
-<a href="#"><img src="https://skillicons.dev/icons?i=css" height="48" title="CSS3"/></a>
-</p>
-
-
-
-### ◈ Backend & Databases
-
-<p align="left">
-<a href="#"><img src="https://skillicons.dev/icons?i=nodejs" height="48" title="Node.js"/></a>&nbsp;
-<a href="#"><img src="https://skillicons.dev/icons?i=express" height="48" title="Express.js"/></a>&nbsp;
-<a href="#"><img src="https://skillicons.dev/icons?i=python" height="48" title="Python"/></a>&nbsp;
-<a href="#"><img src="https://skillicons.dev/icons?i=fastapi" height="48" title="FastAPI"/></a>&nbsp;
-<a href="#"><img src="https://skillicons.dev/icons?i=java" height="48" title="Java"/></a>&nbsp;
-<a href="#"><img src="https://skillicons.dev/icons?i=firebase" height="48" title="Firebase"/></a>&nbsp;
-<a href="#"><img src="https://skillicons.dev/icons?i=mongodb" height="48" title="MongoDB"/></a>&nbsp;
-<a href="#"><img src="https://skillicons.dev/icons?i=mysql" height="48" title="MySQL"/></a>
-</p>
-
-<details>
-<summary><b>↳ Backend capabilities</b></summary>
-<br/>
-
-| Layer | Technologies |
-|---|---|
-| Runtime | Node.js · Python |
-| Frameworks | Express · FastAPI · Java |
-| Databases | Firebase · MongoDB · MySQL |
-| API Style | Custom REST Endpoints · CRUD · Backend Integration |
-
-</details>
-
-### ◈ Tools & Platforms
-
-<p align="left">
-<a href="#"><img src="https://skillicons.dev/icons?i=git" height="48" title="Git"/></a>&nbsp;
-<a href="#"><img src="https://skillicons.dev/icons?i=github" height="48" title="GitHub"/></a>&nbsp;
-<a href="#"><img src="https://skillicons.dev/icons?i=vscode" height="48" title="VS Code"/></a>&nbsp;
-<a href="#"><img src="https://skillicons.dev/icons?i=postman" height="48" title="Postman"/></a>&nbsp;
-<a href="#"><img src="https://skillicons.dev/icons?i=netlify" height="48" title="Netlify"/></a>&nbsp;
-<a href="#"><img src="https://skillicons.dev/icons?i=figma" height="48" title="Figma"/></a>
-</p>
-
-### ◈ AI & Machine Learning *(Actively Learning)*
-
-<p align="left">
-<a href="#"><img src="https://skillicons.dev/icons?i=python" height="48" title="Python"/></a>&nbsp;
-<a href="#"><img src="https://skillicons.dev/icons?i=tensorflow" height="48" title="TensorFlow"/></a>&nbsp;
-<a href="#"><img src="https://skillicons.dev/icons?i=numpy" height="48" title="NumPy"/></a>&nbsp;
-<a href="#"><img src="https://skillicons.dev/icons?i=pandas" height="48" title="Pandas"/></a>
-</p>
-
 ```
-Machine Learning  ·  Artificial Neural Networks  ·  NLP  ·  Big Data Analytics
+[  0.001s] IDENTITY    ......... Werosh Kriyanjala
+[  0.002s] ROLE        ......... Software Engineer - Product Engineering & Frontend Architecture
+[  0.003s] STATUS      ......... Final Year Undergraduate · Software Engineering
+[  0.004s] LOCATION    ......... Sri Lanka 🇱🇰
+[  0.005s] MODE        ......... Open to Opportunities
+[  0.006s] PHILOSOPHY  ......... "Architect for scale from day one. Pixel-perfect UIs are not a luxury."
+[  0.007s] BOOT        ......... [OK] ✓
 ```
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## ◈ Engineering Principles
+```bash
+$ ls -la /repos --include=private
+```
 
-<table>
-<tr>
-<td width="50%">
+```
+drwxr-xr-x  PUBLIC/          (visible in this profile)
+drwx------  PRIVATE/         (12+ repos · NDA-protected · client systems · org privileges)
+drwx------  INTERNAL/        (production tooling · team infrastructure · confidential)
 
-**Architecture**
-- Full-Stack Development
-- Component-Based Architecture
-- Scalable System Design
-- Responsive Design
+⚠  What you see here is a curated public snapshot - not the full system.
+   Active production work, client-facing products, and internal platform
+   engineering live in private repositories under access control.
 
-</td>
-<td width="50%">
+   For a fuller picture → reach out directly.
+```
 
-**Engineering**
-- REST APIs & Custom Endpoints
-- State Management
-- CRUD Operations
-- Clean Code Practices
 
-</td>
-</tr>
-</table>
+```bash
+$ ps aux --sort=priority
+```
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+```
+PID    PROCESS                        STATUS     LOAD
+----   ------------------------------ ---------- -------
+001    frontend-architecture          RUNNING    ████████████ CORE
+002    product-engineering            RUNNING    ████████████ CORE  
+003    system-design                  RUNNING    ████████░░░░ ACTIVE
+004    machine-learning               ACTIVE     ███████░░░░░ LEARNING
+005    neural-networks                ACTIVE     ██████░░░░░░ LEARNING
+006    nlp                            ACTIVE     ██████░░░░░░ LEARNING
+007    big-data-analytics             QUEUED     █████░░░░░░░ QUEUED
+```
 
-## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="24"> &nbsp; GitHub Statistics
+
+```bash
+$ cat /etc/stack.conf
+```
+
+```ini
+# ─── FRONTEND ──────────────────────────────────────────────────────────────────
+[frontend]
+frameworks     = React, Next.js
+styling        = Tailwind CSS, CSS3, HTML5
+language       = JavaScript, TypeScript
+arch_patterns  = Component Systems, Responsive Design, Accessibility-first
+
+# ─── BACKEND ───────────────────────────────────────────────────────────────────
+[backend]
+runtimes       = Node.js, Python, Java
+frameworks     = Express.js, FastAPI
+databases      = MongoDB, MySQL, Firebase
+api_style      = RESTful, Custom Endpoints, CRUD
+
+# ─── AI/ML ─────────────────────────────────────────────────────────────────────
+[ai_ml]
+stack          = Python, TensorFlow, NumPy, Pandas
+domains        = Machine Learning, Neural Networks, NLP, Big Data
+status         = actively_expanding
+
+# ─── TOOLING ───────────────────────────────────────────────────────────────────
+[tools]
+vcs            = Git, GitHub
+editor         = VS Code
+design         = Figma
+api_testing    = Postman
+deploy         = Netlify
+
+# ─── ENGINEERING DEFAULTS ──────────────────────────────────────────────────────
+[defaults]
+architecture   = scale_from_day_one
+interface      = pixel_perfect
+code_standard  = clean, maintainable, documented
+mindset        = invent_the_future
+```
+
+
+```bash
+$ neofetch --github-stats
+```
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Werosh&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=4a9edb&icon_color=4a9edb&text_color=7bafd4&ring_color=1a3a6b&border_radius=12" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Werosh&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=4a9edb&text_color=7bafd4&border_radius=12&langs_count=8" />
-
-<br/><br/>
-
-<img width="70%" src="https://streak-stats.demolab.com?user=Werosh&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=1a3a6b&ring=4a9edb&fire=4a9edb&currStreakLabel=7bafd4&sideNums=4a9edb&sideLabels=7bafd4&dates=4a5568&border_radius=12"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Werosh&bg_color=0d1117&color=4a9edb&line=1a3a6b&point=4a9edb&area=true&hide_border=true&radius=12" width="95%"/>
+<img width="70%" src="https://streak-stats.demolab.com?user=Werosh&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=1a4a3a&ring=00d4aa&fire=00d4aa&currStreakLabel=7bafd4&sideNums=00d4aa&sideLabels=7bafd4&dates=4a5568&border_radius=6"/>
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## ◈ Currently Expanding Into
-
-<div align="center">
-
-| Domain | Progress | Status |
-|---|---|---|
-| 🤖 Machine Learning | `████████____` 80% | Active |
-| 🧠 Neural Networks | `██████____` 60% | Active |
-| 💬 NLP | `██████____` 60% | Active |
-| 📊 Big Data Analytics | `█████____` 50% | Learning |
-| 🏛️ Scalable Architecture | `███████____` 70% | Active |
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## ◈ Connect
-
-<div align="center">
-
-| | Platform | Link |
-|---|---|---|
-| 🌐 | Portfolio | [weroshportfolio.netlify.app](https://weroshportfolio.netlify.app) |
-| 💼 | LinkedIn | [linkedin.com/in/weroshk](https://www.linkedin.com/in/weroshk) |
-| 🐙 | GitHub | [github.com/Werosh](https://github.com/Werosh) |
-| 📸 | Instagram | [@werosh\_k](https://www.instagram.com/werosh_k) |
-| 📧 | Email | weroshprofy@gmail.com |
-| 📱 | Phone | +94 76 949 6250 |
-
-</div>
+```
+NOTE: stats reflect PUBLIC repositories only.
+      Private repo contributions are not tracked here.
+```
 
 <br/>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:112244,50:0a1628,100:050a18&height=130&section=footer&text=Invent%20the%20future.%20Do%20not%20wait%20for%20it.&fontSize=15&fontColor=4a9edb&fontAlignY=62&animation=twinkling" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Werosh&bg_color=0d1117&color=00d4aa&line=1a4a3a&point=00d4aa&area=true&hide_border=true&radius=6" width="95%"/>
+
+</div>
+
+
+```bash
+$ cat /var/log/principles.log
+```
+
+```
+[ARCH]   Architecture decisions made early define product ceilings - get them right.
+[UI]     Pixel-perfect interfaces are a signal of engineering discipline, not vanity.
+[SCALE]  Build for 10x from day one. Refactoring at scale is expensive.
+[CODE]   Clean code is not about style - it is about the next engineer reading it.
+[FUTURE] Invent the future. Do not wait for it.
+```
+
+
+```bash
+$ ping werosh.kriyanjala --channels all
+```
+
+```
+◈  Portfolio   →  weroshportfolio.netlify.app
+◈  LinkedIn    →  linkedin.com/in/weroshk
+◈  GitHub      →  github.com/Werosh
+◈  Instagram   →  @werosh_k
+◈  Email       →  weroshprofy@gmail.com
+◈  Phone       →  +94 76 949 6250
+
+PING werosh.kriyanjala: available for new opportunities.
+Response time: fast.
+```
+
+
+<div align="center">
+
+```
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  werosh@system:~$ █
+  Invent the future. Do not wait for it.
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
 
 </div>

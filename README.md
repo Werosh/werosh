@@ -1,65 +1,42 @@
-<div align="center">
+# Werosh Kriyanjala
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=3200&pause=2400&color=00D4AA&center=true&vCenter=true&width=520&lines=werosh+kriyanjala+%2F%2F+software+engineer)](https://git.io/typing-svg)
+Software Engineer, Product Engineering & Frontend Architecture
+Sri Lanka · Open to opportunities
 
-</div>
+[Portfolio](https://weroshportfolio.netlify.app) · [LinkedIn](https://www.linkedin.com/in/weroshk) · [Email](mailto:weroshprofy@gmail.com)
 
-<br/>
+---
 
-<div align="center">
+### Currently building, GowiKamituwa
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-00d4aa?style=flat-square&labelColor=0d1117)](https://weroshportfolio.netlify.app)&nbsp;&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=flat-square&labelColor=0d1117)](https://www.linkedin.com/in/weroshk)&nbsp;&nbsp;
-[![Email](https://img.shields.io/badge/EMAIL-EA4335?style=flat-square&labelColor=0d1117)](mailto:weroshprofy@gmail.com)
+GowiKamituwa connects Sri Lankan farmers directly with agricultural experts: real advice, in real time, no middlemen.
 
-![Views](https://komarev.com/ghpvc/?username=Werosh&color=00d4aa&style=flat-square&label=SESSIONS)
+- **Status:** Launching December 2026
+- **Live preview:** [gowikamituwa.netlify.app](https://gowikamituwa.netlify.app/)
+- **Following the build:** [LinkedIn, #GowiKamituwa](https://www.linkedin.com/in/weroshk)
 
-</div>
+This is the project I'm putting the most into right now.
 
-<br/>
+---
 
-```
-Product Engineering & Frontend Architecture
-Sri Lanka  ·  Final Year Undergraduate  ·  Open to Opportunities
-```
+### Stack
 
-<br/>
+| | |
+|---|---|
+| **Frontend** | React · Next.js · TypeScript · Tailwind CSS |
+| **Backend** | Node.js · Python · Express.js · FastAPI |
+| **Database** | PostgreSQL · MongoDB · MySQL · Firebase |
+| **AI / ML** | TensorFlow · NumPy · Pandas |
+| **Tooling** | Git · Figma · Postman · Vercel · Netlify |
 
-```bash
-$ ls -la ~/private
-```
+---
 
-```
-ls: Permission denied
+### A note on this profile
 
-  30+ repositories live here.
-  Client systems. Production platforms. Org infrastructure.
-  NDA-protected. Access-controlled. Actively maintained.
+The repositories here are a partial view. A larger body of work, client systems, production platforms, internal tooling, sits under NDA and isn't public. What's shown here is intentional, not exhaustive.
 
-  What you see on this profile is intentional -
-  and it is not the full picture.
+Reach out: [weroshprofy@gmail.com](mailto:weroshprofy@gmail.com)
 
-  → weroshprofy@gmail.com
-```
+---
 
-<br/>
-
-```bash
-$ cat stack
-```
-
-```
-FRONTEND    React · Next.js · TypeScript · Tailwind CSS
-BACKEND     Node.js · Python · Express.js · FastAPI
-DATABASE    PostgreSQL · MongoDB · MySQL · Firebase
-AI / ML     TensorFlow · NumPy · Pandas
-TOOLING     Git · Figma · Postman · Vercel · Netlify
-```
-
-<br/>
-
-<div align="center">
-
-`Architect for scale. Ship pixel-perfect. Invent the future.`
-
-</div>
+<sub>![Views](https://komarev.com/ghpvc/?username=Werosh&color=000000&style=flat-square&label=SESSIONS)</sub>

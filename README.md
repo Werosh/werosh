@@ -3,7 +3,7 @@
 Software Engineer, Product Engineering & Frontend Architecture
 Sri Lanka · Open to opportunities
 
-[Portfolio](https://weroshportfolio.netlify.app) · [LinkedIn](https://www.linkedin.com/in/weroshk) · [Email](mailto:weroshprofy@gmail.com)
+[Portfolio](https://www.weroshk.com/) · [LinkedIn](https://www.linkedin.com/in/weroshk) · [Email](mailto:weroshprofy@gmail.com)
 
 ---
 

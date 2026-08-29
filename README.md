@@ -3,7 +3,7 @@
 Software Engineer, Product Engineering & Frontend Architecture
 Sri Lanka · Open to opportunities
 
-[Portfolio](https://www.weroshk.com/) · [LinkedIn](https://www.linkedin.com/in/weroshk) · [Email](mailto:weroshprofy@gmail.com)
+[Portfolio](https://www.weroshk.com/) · [LinkedIn](https://www.linkedin.com/in/weroshk) · [Email](mailto:weroshkriyanjala@gmail.com)
 
 ---
 
@@ -35,7 +35,7 @@ This is the project I'm putting the most into right now.
 
 The repositories here are a partial view. A larger body of work, client systems, production platforms, internal tooling, sits under NDA and isn't public. What's shown here is intentional, not exhaustive.
 
-Reach out: [weroshprofy@gmail.com](mailto:weroshprofy@gmail.com)
+Reach out: [weroshprofy@gmail.com](mailto:weroshkriyanjala@gmail.com)
 
 ---
 
